@@ -6,7 +6,7 @@ for(let i=1; i<=n; i++){
     count++;
   }
 }
-if(count=2){
+if(count==2){
   console.log("Prime Number");
 }
 else{
